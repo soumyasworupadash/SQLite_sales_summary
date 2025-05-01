@@ -48,8 +48,8 @@ GROUP BY product;
 ### 📈 Revenue Bar Chart
 Visual representation of revenue by product:
 
-![Sales Chart](img1.png)
-![Sales Chart](img2.png)
+![Sales Chart](Total_sold_quantity.png)
+![Sales Chart](Total_revenue.png)
 
 ---
 
